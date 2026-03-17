@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 15-03-2026
+### DATE: 12.03.2026
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,10 +59,27 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-<img width="1216" height="798" alt="image" src="https://github.com/user-attachments/assets/4738cf49-04ec-4b9e-b740-172080a51e36" />
 
-### Name: SRIGANESH S
-### Register Number: 212225220102
+
+<img width="1575" height="953" alt="image" src="https://github.com/user-attachments/assets/95b17718-7c65-431f-a623-14600f367736" />
+
+<img width="1883" height="956" alt="image" src="https://github.com/user-attachments/assets/4a05687f-4b7b-4671-a76e-a4c6215e705f" />
+
+
+<img width="1425" height="949" alt="image" src="https://github.com/user-attachments/assets/51af6ef1-b332-4633-a396-3349716de42e" />
+
+
+<img width="1079" height="764" alt="image" src="https://github.com/user-attachments/assets/975c58b8-c5c9-4de5-bd2e-c6bc47f52efc" />
+
+
+<img width="904" height="785" alt="image" src="https://github.com/user-attachments/assets/5705e96c-cdfb-43e5-8df2-e84b13434c60" />
+
+
+
+
+
+### Name: SARATHI M
+### Register Number:212225040386
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
